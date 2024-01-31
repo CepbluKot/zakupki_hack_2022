@@ -1,0 +1,1026 @@
+[
+  {
+    "country_name": "Австралия",
+    "country_iso_code": "036"
+  },
+  {
+    "country_name": "Австрия",
+    "country_iso_code": "040"
+  },
+  {
+    "country_name": "Азербайджан",
+    "country_iso_code": "031"
+  },
+  {
+    "country_name": "Аландские острова",
+    "country_iso_code": 248
+  },
+  {
+    "country_name": "Албания",
+    "country_iso_code": "008"
+  },
+  {
+    "country_name": "Алжир",
+    "country_iso_code": "012"
+  },
+  {
+    "country_name": "Виргинские Острова (США)",
+    "country_iso_code": 850
+  },
+  {
+    "country_name": "Американское Самоа",
+    "country_iso_code": "016"
+  },
+  {
+    "country_name": "Ангилья",
+    "country_iso_code": 660
+  },
+  {
+    "country_name": "Ангола",
+    "country_iso_code": "024"
+  },
+  {
+    "country_name": "Андорра",
+    "country_iso_code": "020"
+  },
+  {
+    "country_name": "Антарктика",
+    "country_iso_code": "010"
+  },
+  {
+    "country_name": "Антигуа и Барбуда",
+    "country_iso_code": "028"
+  },
+  {
+    "country_name": "Аргентина",
+    "country_iso_code": "032"
+  },
+  {
+    "country_name": "Армения",
+    "country_iso_code": "051"
+  },
+  {
+    "country_name": "Аруба",
+    "country_iso_code": 533
+  },
+  {
+    "country_name": "Афганистан",
+    "country_iso_code": "004"
+  },
+  {
+    "country_name": "Багамские Острова",
+    "country_iso_code": "044"
+  },
+  {
+    "country_name": "Бангладеш",
+    "country_iso_code": "050"
+  },
+  {
+    "country_name": "Барбадос",
+    "country_iso_code": "052"
+  },
+  {
+    "country_name": "Бахрейн",
+    "country_iso_code": "048"
+  },
+  {
+    "country_name": "Белиз",
+    "country_iso_code": "084"
+  },
+  {
+    "country_name": "Белоруссия",
+    "country_iso_code": 112
+  },
+  {
+    "country_name": "Бельгия",
+    "country_iso_code": "056"
+  },
+  {
+    "country_name": "Бенин",
+    "country_iso_code": 204
+  },
+  {
+    "country_name": "Бермуды",
+    "country_iso_code": "060"
+  },
+  {
+    "country_name": "Болгария",
+    "country_iso_code": 100
+  },
+  {
+    "country_name": "Боливия",
+    "country_iso_code": "068"
+  },
+  {
+    "country_name": "Бонайре, Синт-Эстатиус и Саба",
+    "country_iso_code": 535
+  },
+  {
+    "country_name": "Босния и Герцеговина",
+    "country_iso_code": "070"
+  },
+  {
+    "country_name": "Ботсвана",
+    "country_iso_code": "072"
+  },
+  {
+    "country_name": "Бразилия",
+    "country_iso_code": "076"
+  },
+  {
+    "country_name": "Британская территория в Индийском океане",
+    "country_iso_code": "086"
+  },
+  {
+    "country_name": "Виргинские Острова (Великобритания)",
+    "country_iso_code": "092"
+  },
+  {
+    "country_name": "Бруней",
+    "country_iso_code": "096"
+  },
+  {
+    "country_name": "Буркина-Фасо",
+    "country_iso_code": 854
+  },
+  {
+    "country_name": "Бурунди",
+    "country_iso_code": 108
+  },
+  {
+    "country_name": "Бутан",
+    "country_iso_code": "064"
+  },
+  {
+    "country_name": "Вануату",
+    "country_iso_code": 548
+  },
+  {
+    "country_name": "Ватикан",
+    "country_iso_code": 336
+  },
+  {
+    "country_name": "Великобритания",
+    "country_iso_code": 826
+  },
+  {
+    "country_name": "Венгрия",
+    "country_iso_code": 348
+  },
+  {
+    "country_name": "Венесуэла",
+    "country_iso_code": 862
+  },
+  {
+    "country_name": "Внешние малые острова США",
+    "country_iso_code": 581
+  },
+  {
+    "country_name": "Восточный Тимор",
+    "country_iso_code": 626
+  },
+  {
+    "country_name": "Вьетнам",
+    "country_iso_code": 704
+  },
+  {
+    "country_name": "Габон",
+    "country_iso_code": 266
+  },
+  {
+    "country_name": "Гаити",
+    "country_iso_code": 332
+  },
+  {
+    "country_name": "Гайана",
+    "country_iso_code": 328
+  },
+  {
+    "country_name": "Гамбия",
+    "country_iso_code": 270
+  },
+  {
+    "country_name": "Гана",
+    "country_iso_code": 288
+  },
+  {
+    "country_name": "Гваделупа",
+    "country_iso_code": 312
+  },
+  {
+    "country_name": "Гватемала",
+    "country_iso_code": 320
+  },
+  {
+    "country_name": "Гвиана",
+    "country_iso_code": 254
+  },
+  {
+    "country_name": "Гвинея",
+    "country_iso_code": 324
+  },
+  {
+    "country_name": "Гвинея-Бисау",
+    "country_iso_code": 624
+  },
+  {
+    "country_name": "Германия",
+    "country_iso_code": 276
+  },
+  {
+    "country_name": "Гернси",
+    "country_iso_code": 831
+  },
+  {
+    "country_name": "Гибралтар",
+    "country_iso_code": 292
+  },
+  {
+    "country_name": "Гондурас",
+    "country_iso_code": 340
+  },
+  {
+    "country_name": "Гонконг",
+    "country_iso_code": 344
+  },
+  {
+    "country_name": "Гренада",
+    "country_iso_code": 308
+  },
+  {
+    "country_name": "Гренландия",
+    "country_iso_code": 304
+  },
+  {
+    "country_name": "Греция",
+    "country_iso_code": 300
+  },
+  {
+    "country_name": "Грузия",
+    "country_iso_code": 268
+  },
+  {
+    "country_name": "Гуам",
+    "country_iso_code": 316
+  },
+  {
+    "country_name": "Дания",
+    "country_iso_code": 208
+  },
+  {
+    "country_name": "Джерси",
+    "country_iso_code": 832
+  },
+  {
+    "country_name": "Джибути",
+    "country_iso_code": 262
+  },
+  {
+    "country_name": "Доминика",
+    "country_iso_code": 212
+  },
+  {
+    "country_name": "Доминиканская Республика",
+    "country_iso_code": 214
+  },
+  {
+    "country_name": "ДР Конго",
+    "country_iso_code": 180
+  },
+  {
+    "country_name": "Египет",
+    "country_iso_code": 818
+  },
+  {
+    "country_name": "Замбия",
+    "country_iso_code": 894
+  },
+  {
+    "country_name": "САДР (Сахарская Арабская Демократическая Республика)",
+    "country_iso_code": 732
+  },
+  {
+    "country_name": "Зимбабве",
+    "country_iso_code": 716
+  },
+  {
+    "country_name": "Израиль",
+    "country_iso_code": 376
+  },
+  {
+    "country_name": "Индия",
+    "country_iso_code": 356
+  },
+  {
+    "country_name": "Индонезия",
+    "country_iso_code": 360
+  },
+  {
+    "country_name": "Иордания",
+    "country_iso_code": 400
+  },
+  {
+    "country_name": "Ирак",
+    "country_iso_code": 368
+  },
+  {
+    "country_name": "Иран",
+    "country_iso_code": 364
+  },
+  {
+    "country_name": "Ирландия",
+    "country_iso_code": 372
+  },
+  {
+    "country_name": "Исландия",
+    "country_iso_code": 352
+  },
+  {
+    "country_name": "Испания",
+    "country_iso_code": 724
+  },
+  {
+    "country_name": "Италия",
+    "country_iso_code": 380
+  },
+  {
+    "country_name": "Йемен",
+    "country_iso_code": 887
+  },
+  {
+    "country_name": "Кабо-Верде",
+    "country_iso_code": 132
+  },
+  {
+    "country_name": "Казахстан",
+    "country_iso_code": 398
+  },
+  {
+    "country_name": "Острова Кайман",
+    "country_iso_code": 136
+  },
+  {
+    "country_name": "Камбоджа",
+    "country_iso_code": 116
+  },
+  {
+    "country_name": "Камерун",
+    "country_iso_code": 120
+  },
+  {
+    "country_name": "Канада",
+    "country_iso_code": 124
+  },
+  {
+    "country_name": "Катар",
+    "country_iso_code": 634
+  },
+  {
+    "country_name": "Кения",
+    "country_iso_code": 404
+  },
+  {
+    "country_name": "Кипр",
+    "country_iso_code": 196
+  },
+  {
+    "country_name": "Киргизия",
+    "country_iso_code": 417
+  },
+  {
+    "country_name": "Кирибати",
+    "country_iso_code": 296
+  },
+  {
+    "country_name": "Китайская Республика (Тайвань)",
+    "country_iso_code": 158
+  },
+  {
+    "country_name": "КНДР (Корейская Народно-Демократическая Республика)",
+    "country_iso_code": 408
+  },
+  {
+    "country_name": "Китай (Китайская Народная Республика)",
+    "country_iso_code": 156
+  },
+  {
+    "country_name": "Кокосовые острова",
+    "country_iso_code": 166
+  },
+  {
+    "country_name": "Колумбия",
+    "country_iso_code": 170
+  },
+  {
+    "country_name": "Коморы",
+    "country_iso_code": 174
+  },
+  {
+    "country_name": "Коста-Рика",
+    "country_iso_code": 188
+  },
+  {
+    "country_name": "Кот-д’Ивуар",
+    "country_iso_code": 384
+  },
+  {
+    "country_name": "Куба",
+    "country_iso_code": 192
+  },
+  {
+    "country_name": "Кувейт",
+    "country_iso_code": 414
+  },
+  {
+    "country_name": "Кюрасао",
+    "country_iso_code": 531
+  },
+  {
+    "country_name": "Лаос",
+    "country_iso_code": 418
+  },
+  {
+    "country_name": "Латвия",
+    "country_iso_code": 428
+  },
+  {
+    "country_name": "Лесото",
+    "country_iso_code": 426
+  },
+  {
+    "country_name": "Либерия",
+    "country_iso_code": 430
+  },
+  {
+    "country_name": "Ливан",
+    "country_iso_code": 422
+  },
+  {
+    "country_name": "Ливия",
+    "country_iso_code": 434
+  },
+  {
+    "country_name": "Литва",
+    "country_iso_code": 440
+  },
+  {
+    "country_name": "Лихтенштейн",
+    "country_iso_code": 438
+  },
+  {
+    "country_name": "Люксембург",
+    "country_iso_code": 442
+  },
+  {
+    "country_name": "Маврикий",
+    "country_iso_code": 480
+  },
+  {
+    "country_name": "Мавритания",
+    "country_iso_code": 478
+  },
+  {
+    "country_name": "Мадагаскар",
+    "country_iso_code": 450
+  },
+  {
+    "country_name": "Майотта",
+    "country_iso_code": 175
+  },
+  {
+    "country_name": "Макао (Китай)",
+    "country_iso_code": 446
+  },
+  {
+    "country_name": "Северная Македония",
+    "country_iso_code": 807
+  },
+  {
+    "country_name": "Малави",
+    "country_iso_code": 454
+  },
+  {
+    "country_name": "Малайзия",
+    "country_iso_code": 458
+  },
+  {
+    "country_name": "Мали",
+    "country_iso_code": 466
+  },
+  {
+    "country_name": "Мальдивы",
+    "country_iso_code": 462
+  },
+  {
+    "country_name": "Мальта",
+    "country_iso_code": 470
+  },
+  {
+    "country_name": "Марокко",
+    "country_iso_code": 504
+  },
+  {
+    "country_name": "Мартиника",
+    "country_iso_code": 474
+  },
+  {
+    "country_name": "Маршалловы Острова",
+    "country_iso_code": 584
+  },
+  {
+    "country_name": "Мексика",
+    "country_iso_code": 484
+  },
+  {
+    "country_name": "Микронезия",
+    "country_iso_code": 583
+  },
+  {
+    "country_name": "Мозамбик",
+    "country_iso_code": 508
+  },
+  {
+    "country_name": "Молдавия",
+    "country_iso_code": 498
+  },
+  {
+    "country_name": "Монако",
+    "country_iso_code": 492
+  },
+  {
+    "country_name": "Монголия",
+    "country_iso_code": 496
+  },
+  {
+    "country_name": "Монтсеррат",
+    "country_iso_code": 500
+  },
+  {
+    "country_name": "Мьянма",
+    "country_iso_code": 104
+  },
+  {
+    "country_name": "Намибия",
+    "country_iso_code": 516
+  },
+  {
+    "country_name": "Науру",
+    "country_iso_code": 520
+  },
+  {
+    "country_name": "Непал",
+    "country_iso_code": 524
+  },
+  {
+    "country_name": "Нигер",
+    "country_iso_code": 562
+  },
+  {
+    "country_name": "Нигерия",
+    "country_iso_code": 566
+  },
+  {
+    "country_name": "Нидерланды",
+    "country_iso_code": 528
+  },
+  {
+    "country_name": "Никарагуа",
+    "country_iso_code": 558
+  },
+  {
+    "country_name": "Ниуэ",
+    "country_iso_code": 570
+  },
+  {
+    "country_name": "Новая Зеландия",
+    "country_iso_code": 554
+  },
+  {
+    "country_name": "Новая Каледония",
+    "country_iso_code": 540
+  },
+  {
+    "country_name": "Норвегия",
+    "country_iso_code": 578
+  },
+  {
+    "country_name": "ОАЭ",
+    "country_iso_code": 784
+  },
+  {
+    "country_name": "Оман",
+    "country_iso_code": 512
+  },
+  {
+    "country_name": "Остров Буве",
+    "country_iso_code": "074"
+  },
+  {
+    "country_name": "Остров Мэн",
+    "country_iso_code": 833
+  },
+  {
+    "country_name": "Острова Кука",
+    "country_iso_code": 184
+  },
+  {
+    "country_name": "Остров Норфолк",
+    "country_iso_code": 574
+  },
+  {
+    "country_name": "Остров Рождества",
+    "country_iso_code": 162
+  },
+  {
+    "country_name": "Острова Питкэрн",
+    "country_iso_code": 612
+  },
+  {
+    "country_name": "Острова Святой Елены, Вознесения и Тристан-да-Кунья",
+    "country_iso_code": 654
+  },
+  {
+    "country_name": "Пакистан",
+    "country_iso_code": 586
+  },
+  {
+    "country_name": "Палау",
+    "country_iso_code": 585
+  },
+  {
+    "country_name": "Государство Палестина",
+    "country_iso_code": 275
+  },
+  {
+    "country_name": "Панама",
+    "country_iso_code": 591
+  },
+  {
+    "country_name": "Папуа — Новая Гвинея",
+    "country_iso_code": 598
+  },
+  {
+    "country_name": "Парагвай",
+    "country_iso_code": 600
+  },
+  {
+    "country_name": "Перу",
+    "country_iso_code": 604
+  },
+  {
+    "country_name": "Польша",
+    "country_iso_code": 616
+  },
+  {
+    "country_name": "Португалия",
+    "country_iso_code": 620
+  },
+  {
+    "country_name": "Пуэрто-Рико",
+    "country_iso_code": 630
+  },
+  {
+    "country_name": "Республика Конго",
+    "country_iso_code": 178
+  },
+  {
+    "country_name": "Республика Корея",
+    "country_iso_code": 410
+  },
+  {
+    "country_name": "Реюньон",
+    "country_iso_code": 638
+  },
+  {
+    "country_name": "Россия",
+    "country_iso_code": 643
+  },
+  {
+    "country_name": "Руанда",
+    "country_iso_code": 646
+  },
+  {
+    "country_name": "Румыния",
+    "country_iso_code": 642
+  },
+  {
+    "country_name": "Сальвадор",
+    "country_iso_code": 222
+  },
+  {
+    "country_name": "Самоа",
+    "country_iso_code": 882
+  },
+  {
+    "country_name": "Сан-Марино",
+    "country_iso_code": 674
+  },
+  {
+    "country_name": "Сан-Томе и Принсипи",
+    "country_iso_code": 678
+  },
+  {
+    "country_name": "Саудовская Аравия",
+    "country_iso_code": 682
+  },
+  {
+    "country_name": "Эсватини",
+    "country_iso_code": 748
+  },
+  {
+    "country_name": "Северные Марианские Острова",
+    "country_iso_code": 580
+  },
+  {
+    "country_name": "Сейшельские Острова",
+    "country_iso_code": 690
+  },
+  {
+    "country_name": "Сен-Бартелеми",
+    "country_iso_code": 652
+  },
+  {
+    "country_name": "Сен-Мартен",
+    "country_iso_code": 663
+  },
+  {
+    "country_name": "Сен-Пьер и Микелон",
+    "country_iso_code": 666
+  },
+  {
+    "country_name": "Сенегал",
+    "country_iso_code": 686
+  },
+  {
+    "country_name": "Сент-Винсент и Гренадины",
+    "country_iso_code": 670
+  },
+  {
+    "country_name": "Сент-Китс и Невис",
+    "country_iso_code": 659
+  },
+  {
+    "country_name": "Сент-Люсия",
+    "country_iso_code": 662
+  },
+  {
+    "country_name": "Сербия",
+    "country_iso_code": 688
+  },
+  {
+    "country_name": "Сингапур",
+    "country_iso_code": 702
+  },
+  {
+    "country_name": "Синт-Мартен",
+    "country_iso_code": 534
+  },
+  {
+    "country_name": "Сирия",
+    "country_iso_code": 760
+  },
+  {
+    "country_name": "Словакия",
+    "country_iso_code": 703
+  },
+  {
+    "country_name": "Словения",
+    "country_iso_code": 705
+  },
+  {
+    "country_name": "Соломоновы Острова",
+    "country_iso_code": "090"
+  },
+  {
+    "country_name": "Сомали",
+    "country_iso_code": 706
+  },
+  {
+    "country_name": "Судан",
+    "country_iso_code": 729
+  },
+  {
+    "country_name": "Суринам",
+    "country_iso_code": 740
+  },
+  {
+    "country_name": "США",
+    "country_iso_code": 840
+  },
+  {
+    "country_name": "Сьерра-Леоне",
+    "country_iso_code": 694
+  },
+  {
+    "country_name": "Таджикистан",
+    "country_iso_code": 762
+  },
+  {
+    "country_name": "Таиланд",
+    "country_iso_code": 764
+  },
+  {
+    "country_name": "Танзания",
+    "country_iso_code": 834
+  },
+  {
+    "country_name": "Теркс и Кайкос",
+    "country_iso_code": 796
+  },
+  {
+    "country_name": "Того",
+    "country_iso_code": 768
+  },
+  {
+    "country_name": "Токелау",
+    "country_iso_code": 772
+  },
+  {
+    "country_name": "Тонга",
+    "country_iso_code": 776
+  },
+  {
+    "country_name": "Тринидад и Тобаго",
+    "country_iso_code": 780
+  },
+  {
+    "country_name": "Тувалу",
+    "country_iso_code": 798
+  },
+  {
+    "country_name": "Тунис",
+    "country_iso_code": 788
+  },
+  {
+    "country_name": "Туркмения",
+    "country_iso_code": 795
+  },
+  {
+    "country_name": "Турция",
+    "country_iso_code": 792
+  },
+  {
+    "country_name": "Уганда",
+    "country_iso_code": 800
+  },
+  {
+    "country_name": "Узбекистан",
+    "country_iso_code": 860
+  },
+  {
+    "country_name": "Украина",
+    "country_iso_code": 804
+  },
+  {
+    "country_name": "Уоллис и Футуна",
+    "country_iso_code": 876
+  },
+  {
+    "country_name": "Уругвай",
+    "country_iso_code": 858
+  },
+  {
+    "country_name": "Фарерские острова",
+    "country_iso_code": 234
+  },
+  {
+    "country_name": "Фиджи",
+    "country_iso_code": 242
+  },
+  {
+    "country_name": "Филиппины",
+    "country_iso_code": 608
+  },
+  {
+    "country_name": "Финляндия",
+    "country_iso_code": 246
+  },
+  {
+    "country_name": "Фолклендские острова",
+    "country_iso_code": 238
+  },
+  {
+    "country_name": "Франция",
+    "country_iso_code": 250
+  },
+  {
+    "country_name": "Французская Полинезия",
+    "country_iso_code": 258
+  },
+  {
+    "country_name": "Французские Южные и Антарктические территории",
+    "country_iso_code": 260
+  },
+  {
+    "country_name": "Херд и Макдональд",
+    "country_iso_code": 334
+  },
+  {
+    "country_name": "Хорватия",
+    "country_iso_code": 191
+  },
+  {
+    "country_name": "ЦАР",
+    "country_iso_code": 140
+  },
+  {
+    "country_name": "Чад",
+    "country_iso_code": 148
+  },
+  {
+    "country_name": "Черногория",
+    "country_iso_code": 499
+  },
+  {
+    "country_name": "Чехия",
+    "country_iso_code": 203
+  },
+  {
+    "country_name": "Чили",
+    "country_iso_code": 152
+  },
+  {
+    "country_name": "Швейцария",
+    "country_iso_code": 756
+  },
+  {
+    "country_name": "Швеция",
+    "country_iso_code": 752
+  },
+  {
+    "country_name": "Шпицберген и Ян-Майен",
+    "country_iso_code": 744
+  },
+  {
+    "country_name": "Шри-Ланка",
+    "country_iso_code": 144
+  },
+  {
+    "country_name": "Эквадор",
+    "country_iso_code": 218
+  },
+  {
+    "country_name": "Экваториальная Гвинея",
+    "country_iso_code": 226
+  },
+  {
+    "country_name": "Эритрея",
+    "country_iso_code": 232
+  },
+  {
+    "country_name": "Эстония",
+    "country_iso_code": 233
+  },
+  {
+    "country_name": "Эфиопия",
+    "country_iso_code": 231
+  },
+  {
+    "country_name": "ЮАР",
+    "country_iso_code": 710
+  },
+  {
+    "country_name": "Южная Георгия и Южные Сандвичевы Острова",
+    "country_iso_code": 239
+  },
+  {
+    "country_name": "Южный Судан",
+    "country_iso_code": 728
+  },
+  {
+    "country_name": "Ямайка",
+    "country_iso_code": 388
+  },
+  {
+    "country_name": "Япония",
+    "country_iso_code": 392
+  },
+  {
+    "country_name": "Луганская Народная Республика",
+    "country_iso_code": 898
+  },
+  {
+    "country_name": "Донецкая Народная Республика",
+    "country_iso_code": 897
+  },
+  {
+    "country_name": "Республика Южная Осетия",
+    "country_iso_code": 896
+  },
+  {
+    "country_name": "Республика Абхазия",
+    "country_iso_code": 895
+  },
+  {
+    "country_name": "Судан",
+    "country_iso_code": 736
+  },
+  {
+    "country_name": "Куба",
+    "country_iso_code": 530
+  },
+  {
+    "country_name": "Страна-производитель неизвестна",
+    "country_iso_code": ""
+  }
+]

@@ -1,0 +1,53 @@
+@import "variables.scss";
+
+@font-face {
+  font-family: 'Rubik';
+  src: url('~/src/assets/fonts/rubik/Rubik-VariableFont_wght.ttf') format('woff2-variations');
+  font-weight: 125 950;
+  font-stretch: 75% 125%;
+  font-style: oblique 0deg 20deg;
+}
+
+@font-face {
+  font-family: 'Rubik Italic';
+  src: url('~/src/assets/fonts/rubik/Rubik-Italic-VariableFont_wght.ttf') format('woff2-variations');
+  font-weight: 125 950;
+  font-stretch: 75% 125%;
+  font-style: italic;
+}
+
+$font-family: 'Rubik';
+$font-family-italic: 'Rubik Bold';
+
+.v-application {
+  [class*="text-"] {
+    font-family: $font-family, sans-serif !important;
+  }
+  [class*="italic"] {
+    font-family: $font-family-italic, sans-serif !important;
+  }
+  font-family: $font-family, sans-serif !important;
+}
+
+$autocomplete-focused-input: 20px !default;
+
+.shadow, :root .v-application .elevation-3 {
+  border-width: 0;
+  box-shadow: $card-shadow !important;
+}
+
+.v-input__slot {
+  border-width: 0;
+  box-shadow: $card-shadow !important;
+}
+.v-autocomplete__content.v-menu__content {
+  border-radius: 28px !important;
+  border-width: 0;
+  box-shadow: $card-shadow !important;
+  overflow-y: scroll;
+}
+
+.bg-gray {
+  background-color: $bg-light;
+}
+
